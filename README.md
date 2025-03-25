@@ -39,8 +39,8 @@ I'm a passionate **Software Development** with experience in **Filesystems and C
 
 ## 🏆 Achievements
 
-- ⭐ Contributed to **[WHFST]**
-- 🏅 Maintainer of **[WHFST]**
+- ⭐ Contributed to **WHFST**
+- 🏅 Maintainer of **WHFST**
 
 ---
 
