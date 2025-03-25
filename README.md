@@ -1,4 +1,4 @@
-# Hi there, I'm **[Paul]** 👋
+# Hi there, I'm **Paul** 👋
 
 ![Profile Views](https://komarev.com/ghpvc/?username=paulallen06211995&color=blue)
 ![GitHub Followers](https://img.shields.io/github/followers/paulallen06211995?style=social)
@@ -8,13 +8,13 @@
 
 ## 🚀 About Me
 
-I'm a passionate **[Software Development]** with experience in **[Filesystems and Cryptography]**. I love building scalable solutions, contributing to open-source, and sharing knowledge with the community.
+I'm a passionate **Software Development** with experience in **Filesystems and Cryptography**. I love building scalable solutions, contributing to open-source, and sharing knowledge with the community.
 
-- 🔭 Currently working on **[WHFST]**
-- 🌱 Learning **[C++, Rust, .NET Framework]**
-- 👯 Open to collaborate on **[Filesystems related software]**
-- 💬 Ask me about **[Cryptography]**
-- 📫 Reach me at **[paulallen06211995@gmail.com]**
+- 🔭 Currently working on **WHFST**
+- 🌱 Learning **C++, Rust, .NET Framework**
+- 👯 Open to collaborate on **Filesystems and cryptography software**
+- 💬 Ask me about **Cryptography**
+- 📫 Reach me at **paulallen06211995@gmail.com**
 
 ---
 
