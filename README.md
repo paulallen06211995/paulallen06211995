@@ -1,4 +1,4 @@
-# Hi there, I'm **Paul** 👋
+# Hi there, I'm **Pavel** 👋
 
 ![Profile Views](https://komarev.com/ghpvc/?username=paulallen06211995&color=blue)
 ![GitHub Followers](https://img.shields.io/github/followers/paulallen06211995?style=social)
